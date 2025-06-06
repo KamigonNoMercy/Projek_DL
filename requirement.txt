@@ -1,0 +1,9 @@
+streamlit>=1.30.0
+pandas==2.2.2
+matplotlib==3.9.2
+Pillow==10.4.0
+roboflow==1.1.63
+ultralytics==8.3.130
+numpy==1.26.4
+pyyaml==6.0.1
+torch==2.7.0+cu128
