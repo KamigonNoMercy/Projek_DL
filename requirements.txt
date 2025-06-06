@@ -6,4 +6,5 @@ roboflow==1.1.63
 ultralytics==8.3.130
 numpy==1.26.4
 pyyaml==6.0.1
-torch==2.7.0+cu128
+torch==2.7.0  # ⚠️ HAPUS +cu128 agar versi CPU
+opencv-python  # tambahan supaya ultralytics tidak error di cv2
