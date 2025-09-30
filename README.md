@@ -33,8 +33,11 @@ The deployment is done using **Streamlit** and hosted on **Hugging Face Spaces**
 
 ## 📒 Notebook
 
-The training and fine-tuning process is documented in a Jupyter notebook (coming soon).  
-For now, you can explore the dataset and training pipeline directly on Roboflow.
+You can view the **training & fine-tuning notebook** on Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/drive/1THeHTY-9MKb9LPA2Ve9CvE5FyK8r2Clh?usp=sharing
+)
 
 ---
 
@@ -51,3 +54,11 @@ Clone this repo and install dependencies:
 git clone https://github.com/KamigonNoMercy/viadv2-yolov11-streamlit.git
 cd viadv2-yolov11-streamlit
 pip install -r requirements.txt
+```
+
+## 📜 License
+
+- Code and trained YOLOv11 model weights in this repository are released under the **MIT License**.  
+- Dataset: [ViadV2 dataset](https://universe.roboflow.com/viad-optics-senior-design/viadv2) by **Viad Optics Senior Design** on Roboflow Universe, licensed under **CC BY 4.0**.  
+- ⚠️ This repository does not include the dataset itself. Please download it directly from Roboflow.
+
