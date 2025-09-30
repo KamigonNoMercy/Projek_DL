@@ -12,11 +12,6 @@ The deployment is done using **Streamlit** and hosted on **Hugging Face Spaces**
 - Detects **urban scene objects** (ViadV2 classes: road signs, pedestrians, poles, vehicles, etc.)  
 - Supports:
   - 📷 Image Inference
-- Adjustable:
-  - Confidence threshold
-  - Inference size (640–1280 px)
-  - Class filters
-- Option to **save annotated images/videos** with bounding boxes
 
 ---
 
